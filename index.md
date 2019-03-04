@@ -39,6 +39,12 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
 * 2013: [National Encouragement Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin), Second Prize in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/), First Prize in Mathematical Competition of [CUST](http://ieec.cust.edu.cn/), First Scholarship in [CUST](http://ieec.cust.edu.cn/)
 * 2012: National Encouragement Scholarship, First Scholarship in [CUST](http://ieec.cust.edu.cn/)
 
+## RESEARCH EXPERIENCE
+* **Fusion of Artificial Intelligence-aided Communications and Computing for Networked Autonomous Driving** (Jan. 2019-present, Natural Science Foundation of China)
+* **Network-Controlled Autonomous Driving: Communication Network System for Autonomous Driving** (May 2018-present, Special Foundation of Xi’an Science and Technology Bureau)
+* **Communication Network System for Autonomous Driving Terminal in Tianlang Dream Town** (Mar. 2018-present, cooperate with Tianlang Company)
+* **Research of Key Technologies in Group Communication Based Vehicular Social Networks** (Sep. 2016-Sep. 2017, Natural Science Foundation of China)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Luoquyuan/HomePage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

@@ -1,3 +1,4 @@
+<div style="text-align: right"> <a href="https://github.com/Luoquyuan/HomePage/blob/master/index.md">English Version</a> </div>
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="20%">
@@ -11,7 +12,6 @@
       先进交通技术实验室 <br>
       E-mail: <i>quluoxidian@163.com</i> <br>
       地址: 陕西省西安市太白南路2号 <br>
-       <a href=index.md >English Version</a>
     </td>
   </tr>
 </table>

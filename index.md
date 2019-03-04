@@ -2,7 +2,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="20%">
-      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo_1.png" height="165">
+      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo_1.png" height="195">
     </td>
     <td width="80%">
       Ph.D. student <br> 

@@ -7,9 +7,9 @@ Swithch to [English Version](index.md)
     <td width="80%">
      <font size="6"> 罗渠元 </font> <br> 
       博士 <br> 
-      先进交通技术实验室 <br>
-      <a href="http://ste.xidian.edu.cn/english/index/school_introduction.htm">通信工程学院 </a> <br>
       <a href="https://www.xidian.edu.cn/" >西安电子科技大学</a><br>
+      <a href="http://ste.xidian.edu.cn/english/index/school_introduction.htm">通信工程学院 </a> <br>
+      先进交通技术实验室 <br>
       E-mail: <i>quluoxidian@163.com</i> <br>
       地址: 陕西省西安市太白南路2号
     </td>
@@ -51,12 +51,12 @@ Swithch to [English Version](index.md)
 * 2012: [国家励志奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin), [长春理工大学](http://www.cust.edu.cn/)一等学业奖学金
 
 ### RESEARCH EXPERIENCE
-* **Fusion of Artificial Intelligence-aided Communications and Computing for Networked Autonomous Driving** (Jan. 2019-present, Natural Science Foundation of China)
-* **Network-Controlled Autonomous Driving: Communication Network System for Autonomous Driving** (May 2018-present, Special Foundation of Xi’an Science and Technology Bureau)
-* **Communication Network System for Autonomous Driving Terminal in Tianlang Dream Town** (Mar. 2018-present, cooperate with Tianlang Company)
-* **Research of Key Technologies in Group Communication Based Vehicular Social Networks** (Sep. 2016-Sep. 2017, Natural Science Foundation of China)
+* **网络化无人驾驶中智能通信与计算融合** (2019.1-, 国家自然科学基金)
+* **网控无人驾驶——无人驾驶终端通信网络系统** (2018.5-, 西安市科技局专项)
+* **天朗梦想小镇无人驾驶终端通信网络系统** (2018.3-, 天朗集团)
+* **基于群组通信的社交车联网关键技术研究** (2016.9-2017.9, 国家自然科学基金)
 
-### PUBLICATIONS
+### 研究成果
 * Changle Li, Quyuan Luo, Guoqiang Mao, Min Sheng and Jiandong Li, “Vehicle-Mounted Base Station for Connected and Autonomous Vehicles: Opportunities and Challenges,” **_IEEE Wireless Communications_** (minor revision), 2018.
 * Quyuan Luo, Changle Li, Tom H. Luan and Yingyou Wen, “[Optimal Utility of Vehicles in LTE-V Scenario: An Immune Clone Based Spectrum Allocation Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8421070),” **_IEEE Transactions on Intelligent Transportation Systems_**, PP. 1-12, 2018, early access.
 * Quyuan Luo, Xuelian Cai, Tom H. Luan and Qiang Ye, “[Fuzzy Logic-Based Integrity-Oriented File Transfer for Highway VehicularCommunications](https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-017-1009-x),” **_EURASIP Journal on Wireless Communications and Networking_**, 2018, 2018(1):3.

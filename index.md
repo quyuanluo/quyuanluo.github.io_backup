@@ -31,13 +31,13 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
 </table>
 
 ## HONORS AND AWARDS
-* 2018: First Class Scholarship and Excellent Postgraduate Student Award in Xidian University
-* 2017: First Class Scholarship and Excellent Postgraduate Student Award in Xidian University
-* 2016: Second Class Scholarship in Xidian University
-* 2015: Second Class Scholarship in CUST
-* 2014: First Class Scholarship in CUST
-* 2013: National Encouragement Scholarship, Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling, First Prize in Mathematical Competition of CUST, First and Second Class Scholarship in CUST
-* 2012: National Encouragement Scholarship, First and Second Class Scholarship in CUST
+* 2018: First Class Scholarship and Excellent Postgraduate Student Award in [Xidian University](https://en.xidian.edu.cn/)
+* 2017: First Class Scholarship and Excellent Postgraduate Student Award in [Xidian University](https://en.xidian.edu.cn/)
+* 2016: Second Class Scholarship in [Xidian University](https://en.xidian.edu.cn/)
+* 2015: Second Class Scholarship in [CUST](http://ieec.cust.edu.cn/)
+* 2014: First Class Scholarship in [CUST](http://ieec.cust.edu.cn/)
+* 2013: [National Encouragement Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin), Second Prize in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/), First Prize in Mathematical Competition of [CUST](http://ieec.cust.edu.cn/), First Scholarship in [CUST](http://ieec.cust.edu.cn/)
+* 2012: National Encouragement Scholarship, First Scholarship in [CUST](http://ieec.cust.edu.cn/)
 
 ## Welcome to GitHub Pages
 

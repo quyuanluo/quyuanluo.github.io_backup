@@ -57,6 +57,7 @@
 * **基于群组通信的社交车联网关键技术研究** (2016.9-2017.9, 国家自然科学基金)
 
 ### 研究成果
+<div style="text-align: right"> <a href="https://c.glgoo.top/citations?user=bl9havYAAAAJ&hl=zh-CN&oi=ao">【谷歌学术】</a></div>
 * Changle Li, Quyuan Luo, Guoqiang Mao, Min Sheng and Jiandong Li, “Vehicle-Mounted Base Station for Connected and Autonomous Vehicles: Opportunities and Challenges,” **_IEEE Wireless Communications_** (minor revision), 2018.
 * Quyuan Luo, Changle Li, Tom H. Luan and Yingyou Wen, “[Optimal Utility of Vehicles in LTE-V Scenario: An Immune Clone Based Spectrum Allocation Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8421070),” **_IEEE Transactions on Intelligent Transportation Systems_**, PP. 1-12, 2018, early access.
 * Quyuan Luo, Xuelian Cai, Tom H. Luan and Qiang Ye, “[Fuzzy Logic-Based Integrity-Oriented File Transfer for Highway VehicularCommunications](https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-017-1009-x),” **_EURASIP Journal on Wireless Communications and Networking_**, 2018, 2018(1):3.

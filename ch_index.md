@@ -5,13 +5,13 @@ Swithch to [English Version](en_index.md)
       <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/Images/qyluo.png" height="190">
     </td>
     <td width="80%">
-     <font size="6"> Quyuan Luo </font> <br> 
-      Ph.D. student <br> 
-      Advanced Transportation Technology Lab <br>
-      <a href="http://ste.xidian.edu.cn/english/index/school_introduction.htm">School of Telecommunication Engineering </a> <br>
-      <a href="https://en.xidian.edu.cn/" >Xidian University</a><br>
+     <font size="6"> 罗渠元 </font> <br> 
+      博士 <br> 
+      先进交通技术实验室 <br>
+      <a href="http://ste.xidian.edu.cn/english/index/school_introduction.htm">通信工程学院 </a> <br>
+      <a href="https://www.xidian.edu.cn/" >西安电子科技大学</a><br>
       E-mail: <i>quluoxidian@163.com</i> <br>
-      Address: Mail Box 88, No.2 South Taibai Road, Xi’an, Shaanxi, 710071, China
+      地址: 陕西省西安市太白南路2号
     </td>
   </tr>
 </table>

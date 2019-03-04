@@ -19,6 +19,7 @@
 
 
 ### RESEARCH INTEREST
+$\color{red}{RESEARCH INTEREST}$
 Intelligent Transportation Systems, Content Distribution and Resource Allocation in Vehicular Networks, Joint Allocation of Communication and Computing Resources for Networked Autonomous Driving, Vehicle-Road Collaborative Networked Intelligent Driving.
 
 ### EXPERIENCE

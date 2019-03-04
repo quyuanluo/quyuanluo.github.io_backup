@@ -4,8 +4,7 @@
     <td width="25%">
       <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo.png">
     </td>
-    <td width="75%">
-      <b>Ph.D. student Advanced Transportation Technology Lab </b>
+    <td width="75%">Ph.D. student <br> Advanced Transportation Technology Lab
     </td>
   </tr>
 </table>

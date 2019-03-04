@@ -12,21 +12,21 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
 
 ## EXPERIENCE
 
-<table>
+<table border="0">
     <tr>
         <td>Sep. 2016-present</td>
-    <td>Ph.D in Communications and Information Systems</td>
-    <td>Xidian University, Xi’an, China</td>
+        <td>Ph.D in Communications and Information Systems</td>
+        <td>Xidian University, Xi’an, China</td>
     </tr>
     <tr>
         <td>Sep. 2015-Jul. 2016</td>
-    <td>M.Eng. in Communications and Information Systems</td>
-    <td>Xidian University, Xi’an, China</td>
+        <td>M.Eng. in Communications and Information Systems</td>
+        <td>Xidian University, Xi’an, China</td>
     </tr>
     <tr>
         <td>Sep. 2011-Jul. 2015</td>
-    <td>B.S. in Telecommunications Engineering</td>
-    <td>Changchun University of Science and Technology (CUST), changchun, China</td>
+        <td>B.S. in Telecommunications Engineering</td>
+        <td>Changchun University of Science and Technology (CUST), changchun, China</td>
     </tr>
 </table>
 

@@ -18,26 +18,26 @@ Swithch to [English Version](index.md)
 
 
 
-### RESEARCH INTEREST
-Intelligent Transportation Systems, Content Distribution and Resource Allocation in Vehicular Networks, Joint Allocation of Communication and Computing Resources for Networked Autonomous Driving, Vehicle-Road Collaborative Networked Intelligent Driving.
+### 研究方向
+智能交通系统，内容分发，资源分配，网联自动驾驶通信与计算融合，车路协同关键技术
 
-### EXPERIENCE
+### 经历
 
 <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-        <td width="20%">Sep. 2016-present</td>
-        <td width="45%">Ph.D in Communications and Information Systems</td>
-        <td><a href="https://en.xidian.edu.cn/" >Xidian University</a>, Xi’an, China</td>
+        <td width="20%">2016.9-</td>
+        <td width="45%">博士，通信与信息系统</td>
+        <td><a href="https://www.xidian.edu.cn/" >西安电子科技大学</a>, 中国，西安</td>
     </tr>
     <tr>
-        <td width="20%">Sep. 2015-Jul. 2016</td>
-        <td width="45%">M.Eng. in Communications and Information Systems</td>
-        <td><a href="https://en.xidian.edu.cn/" >Xidian University</a>, Xi’an, China</td>
+        <td width="20%">2015.9-2016.6</td>
+        <td width="45%">硕士，通信与信息系统</td>
+        <td><a href="https://www.xidian.edu.cn/" >西安电子科技大学</a>, 中国，西安</td>
     </tr>
     <tr>
-        <td width="20%">Sep. 2011-Jul. 2015</td>
-        <td width="45%">B.S. in Telecommunications Engineering</td>
-        <td><a href="http://ieec.cust.edu.cn/" >Changchun University of Science and Technology (CUST)</a>, Changchun, China</td>
+        <td width="20%">2011.9-2015.6</td>
+        <td width="45%">本科，通信工程</td>
+        <td><a href="http://www.cust.edu.cn/" >长春理工大学</a>, 中国，长春</td>
     </tr>
 </table>
 

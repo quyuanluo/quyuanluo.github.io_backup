@@ -16,7 +16,7 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
     <tr>
         <td>Sep. 2016-present</td>
         <td>Ph.D in Communications and Information Systems</td>
-        <td><a href="https://en.xidian.edu.cn/" >Xidian University, Xi’an, China</a></td>
+        <td><a href="https://en.xidian.edu.cn/" >Xidian University</a>, Xi’an, China</td>
     </tr>
     <tr>
         <td>Sep. 2015-Jul. 2016</td>

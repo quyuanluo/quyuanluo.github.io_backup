@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="icon" href="images/logo.png" type="image/vnd.microsoft.icon">
+		<link rel="icon" href="Images/xidian.ico" type="image/x-icon">
 	</head>
 
 <table border="0" cellpadding="0" cellspacing="0">

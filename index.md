@@ -1,4 +1,4 @@
-
+<link rel="shortcut icon" href="Images/qyluo.png" type="image/x-icon" /> 
 
 <!--<div style="text-align: right"> <a href="/index-ch.html">【中文版】</a> </div>
 -->

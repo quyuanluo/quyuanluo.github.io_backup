@@ -1,6 +1,6 @@
 <head>
-  <title>Xingzhou Zhang (张星洲)'s Home Page</title>
-  <link rel="shortcut icon" href="Images/qyluo.png" type="image/x-icon" /> 
+      <title>Xingzhou Zhang (张星洲)'s Home Page</title>
+      <link rel="shortcut icon" href="Images/qyluo.png" type="image/x-icon" /> 
 </head>
 <!--<div style="text-align: right"> <a href="/index-ch.html">【中文版】</a> </div>
 -->

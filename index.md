@@ -4,7 +4,13 @@
     <td width="25%">
       <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo.png">
     </td>
-    <td width="75%">Ph.D. student <br> Advanced Transportation Technology Lab
+    <td width="75%">
+      Ph.D. student <br> 
+      Advanced Transportation Technology Lab <br>
+      [School of Telecommunication Engineering](http://ste.xidian.edu.cn/english/index/school_introduction.htm) <br>
+      <a href="https://en.xidian.edu.cn/" >Xidian University</a><br>
+      E-mail: *quluoxidian@163.com* <br>
+      Address: Mail Box 88, No.2 South Taibai Road, Xi’an, Shaanxi, 710071, China
     </td>
   </tr>
 </table>

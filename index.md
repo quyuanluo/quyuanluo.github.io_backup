@@ -1,4 +1,4 @@
-切换到[中文版](ch_index.md)
+<div style="text-align: right"> 切换到[中文版](ch_index.md) </div>
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="20%">

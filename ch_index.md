@@ -11,7 +11,7 @@
       先进交通技术实验室 <br>
       E-mail: <i>quluoxidian@163.com</i> <br>
       地址: 陕西省西安市太白南路2号 <br>
-      [English Version](index.md)
+       <a href=index.md >English Version</a>
     </td>
   </tr>
 </table>

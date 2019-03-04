@@ -39,7 +39,8 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
         <td>Sep. 2011-<br>
           Jul. 2015</td>
         <td>B.S. in Telecommunications Engineering</td>
-        <td><a href="http://ieec.cust.edu.cn/" >Changchun University of Science and Technology (CUST)</a>, Changchun, China</td>
+        <td><a href="http://ieec.cust.edu.cn/" >Changchun University of Science and Technology (CUST)</a>, <br>
+          Changchun, China</td>
     </tr>
 </table>
 

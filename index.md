@@ -52,9 +52,3 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
 * Quyuan Luo, Changle Li, Qiang Ye, Tom H. Luan, Lina Zhu and Xiaolei Han, “[CFT: A Cluster-based File Transfer Scheme for Highway VANETs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996452),” in **_Proc. IEEE ICC, Paris_**, 2017, pp.1-6.
 * Pengfei Huang, Changle Li, Quyuan Luo, Yao Zhang and Bing Xia, “GECM: A Novel Green Wave Band Based Energy Consumption Model for Electric Vehicles,” in **_Proc. IEEE VTC-Spring_**, Porto, 2018, pp. 1-5.
 * Zhifang Miao, Xuelian Cai, Quyuan Luo, Weiwei Dong, “[A FLRBF Scheme for Optimization of Forwarding Broadcast Packets in Vehicular Ad Hoc Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7794952),” in **_Proc. IEEE PIMRC_**, Valencia, 2016, pp. 1-5.
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Luoquyuan/HomePage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

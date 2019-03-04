@@ -57,7 +57,9 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
 * **Research of Key Technologies in Group Communication Based Vehicular Social Networks** (Sep. 2016-Sep. 2017, Natural Science Foundation of China)
 
 ### PUBLICATIONS
+<!--
 <div style="text-align: right"> <a href="https://c.glgoo.top/citations?user=bl9havYAAAAJ&hl=zh-CN&oi=ao">【Google Scholar】</a></div>
+-->
 * Changle Li, Quyuan Luo, Guoqiang Mao, Min Sheng and Jiandong Li, “Vehicle-Mounted Base Station for Connected and Autonomous Vehicles: Opportunities and Challenges,” **_IEEE Wireless Communications_** (minor revision), 2018.
 * Quyuan Luo, Changle Li, Tom H. Luan and Yingyou Wen, “[Optimal Utility of Vehicles in LTE-V Scenario: An Immune Clone Based Spectrum Allocation Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8421070),” **_IEEE Transactions on Intelligent Transportation Systems_**, PP. 1-12, 2018, early access.
 * Quyuan Luo, Xuelian Cai, Tom H. Luan and Qiang Ye, “[Fuzzy Logic-Based Integrity-Oriented File Transfer for Highway VehicularCommunications](https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-017-1009-x),” **_EURASIP Journal on Wireless Communications and Networking_**, 2018, 2018(1):3.

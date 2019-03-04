@@ -7,24 +7,10 @@
     <td width="75%">
       Ph.D. student <br> 
       Advanced Transportation Technology Lab <br>
-      [School of Telecommunication Engineering](http://ste.xidian.edu.cn/english/index/school_introduction.htm) <br>
+      <a href="http://ste.xidian.edu.cn/english/index/school_introduction.htm">School of Telecommunication Engineering] </a> <br>
       <a href="https://en.xidian.edu.cn/" >Xidian University</a><br>
       E-mail: *quluoxidian@163.com* <br>
       Address: Mail Box 88, No.2 South Taibai Road, Xi’an, Shaanxi, 710071, China
-    </td>
-  </tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td width="75%">
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo.png">
     </td>
   </tr>
 </table>

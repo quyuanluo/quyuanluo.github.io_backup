@@ -1,4 +1,4 @@
-<div style="text-align: right"> <a href="/index-ch.md">中文版</a> </div>
+<div style="text-align: right"> <a href="/index-ch.html">中文版</a> </div>
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="20%">

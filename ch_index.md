@@ -1,4 +1,4 @@
-Swithch to [English Version](en_index.md)
+Swithch to [English Version](index.md)
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="20%">

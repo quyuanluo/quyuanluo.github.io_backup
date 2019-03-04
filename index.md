@@ -12,7 +12,7 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
 
 ## EXPERIENCE
 
-<table class="table table-striped table-condensed">
+<table>
     <tr>
         <td>Sep. 2016-present</td>
     <td>Ph.D in Communications and Information Systems</td>

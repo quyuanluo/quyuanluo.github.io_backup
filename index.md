@@ -42,7 +42,7 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
     </tr>
 </table>
 
-<!--### HONORS AND AWARDS-->
+<!--### HONORS AND AWARDS
 * 2018: First Class Scholarship and Excellent Postgraduate Student Award in [Xidian University](https://en.xidian.edu.cn/)
 * 2017: First Class Scholarship and Excellent Postgraduate Student Award in [Xidian University](https://en.xidian.edu.cn/)
 * 2016: Second Class Scholarship in [Xidian University](https://en.xidian.edu.cn/)
@@ -50,6 +50,7 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
 * 2014: First Class Scholarship in [CUST](http://ieec.cust.edu.cn/)
 * 2013: [National Encouragement Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin), Second Prize in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/), First Prize in Mathematical Competition of [CUST](http://ieec.cust.edu.cn/), First Scholarship in [CUST](http://ieec.cust.edu.cn/)
 * 2012: National Encouragement Scholarship, First Scholarship in [CUST](http://ieec.cust.edu.cn/)
+-->
 
 <!--### RESEARCH EXPERIENCE
 * **Fusion of Artificial Intelligence-aided Communications and Computing for Networked Autonomous Driving** (Jan. 2019-present, Natural Science Foundation of China)

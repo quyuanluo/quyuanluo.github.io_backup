@@ -4,7 +4,7 @@
       <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/Images/qyluo.png" height="180">
     </td>
     <td width="80%">
-     <font size="6"> Quyuan Luo </font> <br> 
+     <font size="7"> Quyuan Luo </font> <br> 
       Ph.D. student <br> 
       Advanced Transportation Technology Lab <br>
       <a href="http://ste.xidian.edu.cn/english/index/school_introduction.htm">School of Telecommunication Engineering </a> <br>

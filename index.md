@@ -26,9 +26,18 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
     <tr>
         <td>Sep. 2011-Jul. 2015</td>
         <td>B.S. in Telecommunications Engineering</td>
-        <td><a href="http://ieec.cust.edu.cn/" >Changchun University of Science and Technology (CUST)</a>, changchun, China</td>
+        <td><a href="http://ieec.cust.edu.cn/" >Changchun University of Science and Technology (CUST)</a>, Changchun, China</td>
     </tr>
 </table>
+
+## HONORS AND AWARDS
+* 2018: First Class Scholarship and Excellent Postgraduate Student Award in Xidian University
+* 2017: First Class Scholarship and Excellent Postgraduate Student Award in Xidian University
+* 2016: Second Class Scholarship in Xidian University
+* 2015: Second Class Scholarship in CUST
+* 2014: First Class Scholarship in CUST
+* 2013: National Encouragement Scholarship, Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling, First Prize in Mathematical Competition of CUST, First and Second Class Scholarship in CUST
+* 2012: National Encouragement Scholarship, First and Second Class Scholarship in CUST
 
 ## Welcome to GitHub Pages
 

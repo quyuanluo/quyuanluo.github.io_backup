@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo.png" height="180">
+      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo.png" height="170">
     </td>
     <td width="75%">
       Ph.D. student <br> 

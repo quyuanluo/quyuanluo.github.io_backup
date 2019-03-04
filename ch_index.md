@@ -21,7 +21,7 @@ Swithch to [English Version](index.md)
 ### 研究方向
 智能交通系统，内容分发，资源分配，网联自动驾驶通信与计算融合，车路协同关键技术
 
-### 经历
+### 教育经历
 
 <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -41,7 +41,7 @@ Swithch to [English Version](index.md)
     </tr>
 </table>
 
-### HONORS AND AWARDS
+### 荣誉与奖励
 * 2018: [西安电子科技大学](https://www.xidian.edu.cn/)一等学业奖学金、优秀研究生
 * 2017: [西安电子科技大学](https://www.xidian.edu.cn/)一等学业奖学金、优秀研究生
 * 2016: [西安电子科技大学](https://www.xidian.edu.cn/)二等学业奖学金
@@ -50,7 +50,7 @@ Swithch to [English Version](index.md)
 * 2013: [国家励志奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin), [全国大学生数学建模竞赛](http://mcm.edu.cn/)省二等奖，[长春理工大学](http://www.cust.edu.cn/)数学竞赛一等奖，[长春理工大学](http://www.cust.edu.cn/)一等学业奖学金
 * 2012: [国家励志奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin), [长春理工大学](http://www.cust.edu.cn/)一等学业奖学金
 
-### RESEARCH EXPERIENCE
+### 研究经历
 * **网络化无人驾驶中智能通信与计算融合** (2019.1-, 国家自然科学基金)
 * **网控无人驾驶——无人驾驶终端通信网络系统** (2018.5-, 西安市科技局专项)
 * **天朗梦想小镇无人驾驶终端通信网络系统** (2018.3-, 天朗集团)

@@ -2,7 +2,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="20%">
-      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/Images/qyluo.png" height="190">
+      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/Images/qyluo.png">
     </td>
     <td width="80%">
      <font size="6"> 罗渠元 </font> <br> 

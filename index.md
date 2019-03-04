@@ -45,6 +45,14 @@ Intelligent Transportation Systems, Content Distribution and Resource Allocation
 * **Communication Network System for Autonomous Driving Terminal in Tianlang Dream Town** (Mar. 2018-present, cooperate with Tianlang Company)
 * **Research of Key Technologies in Group Communication Based Vehicular Social Networks** (Sep. 2016-Sep. 2017, Natural Science Foundation of China)
 
+## PUBLICATIONS
+* Changle Li, Quyuan Luo, Guoqiang Mao, Min Sheng and Jiandong Li, “Vehicle-Mounted Base Station for Connected and Autonomous Vehicles: Opportunities and Challenges,” **_IEEE Wireless Communications_** (minor revision), 2018.
+* Quyuan Luo, Changle Li, Tom H. Luan and Yingyou Wen, “[Optimal Utility of Vehicles in LTE-V Scenario: An Immune Clone Based Spectrum Allocation Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8421070),” **_IEEE Transactions on Intelligent Transportation Systems_**, PP. 1-12, 2018, early access.
+* Quyuan Luo, Xuelian Cai, Tom H. Luan and Qiang Ye, “[Fuzzy Logic-Based Integrity-Oriented File Transfer for Highway VehicularCommunications](https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-017-1009-x),” **_EURASIP Journal on Wireless Communications and Networking_**, 2018, 2018(1):3.
+* Quyuan Luo, Changle Li, Qiang Ye, Tom H. Luan, Lina Zhu and Xiaolei Han, “[CFT: A Cluster-based File Transfer Scheme for Highway VANETs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996452),” in **_Proc. IEEE ICC, Paris_**, 2017, pp.1-6.
+* Pengfei Huang, Changle Li, Quyuan Luo, Yao Zhang and Bing Xia, “GECM: A Novel Green Wave Band Based Energy Consumption Model for Electric Vehicles,” in **_Proc. IEEE VTC-Spring_**, Porto, 2018, pp. 1-5.
+* Zhifang Miao, Xuelian Cai, Quyuan Luo, Weiwei Dong, “[A FLRBF Scheme for Optimization of Forwarding Broadcast Packets in Vehicular Ad Hoc Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7794952),” in **_Proc. IEEE PIMRC_**, Valencia, 2016, pp. 1-5.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Luoquyuan/HomePage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

@@ -42,13 +42,13 @@ Swithch to [English Version](index.md)
 </table>
 
 ### HONORS AND AWARDS
-* 2018: First Class Scholarship and Excellent Postgraduate Student Award in [Xidian University](https://en.xidian.edu.cn/)
-* 2017: First Class Scholarship and Excellent Postgraduate Student Award in [Xidian University](https://en.xidian.edu.cn/)
-* 2016: Second Class Scholarship in [Xidian University](https://en.xidian.edu.cn/)
-* 2015: Second Class Scholarship in [CUST](http://ieec.cust.edu.cn/)
-* 2014: First Class Scholarship in [CUST](http://ieec.cust.edu.cn/)
-* 2013: [National Encouragement Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin), Second Prize in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/), First Prize in Mathematical Competition of [CUST](http://ieec.cust.edu.cn/), First Scholarship in [CUST](http://ieec.cust.edu.cn/)
-* 2012: National Encouragement Scholarship, First Scholarship in [CUST](http://ieec.cust.edu.cn/)
+* 2018: [西安电子科技大学](https://www.xidian.edu.cn/)一等学业奖学金、优秀研究生
+* 2017: [西安电子科技大学](https://www.xidian.edu.cn/)一等学业奖学金、优秀研究生
+* 2016: [西安电子科技大学](https://www.xidian.edu.cn/)二等学业奖学金
+* 2015: [长春理工大学](http://www.cust.edu.cn/)二等学业奖学金
+* 2014: [长春理工大学](http://www.cust.edu.cn/)一等学业奖学金
+* 2013: [国家励志奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin), [全国大学生数学建模竞赛](http://mcm.edu.cn/)省二等奖，[长春理工大学](http://www.cust.edu.cn/)数学竞赛一等奖，[长春理工大学](http://www.cust.edu.cn/)一等学业奖学金
+* 2012: [国家励志奖学金](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91/4293574?fr=aladdin), [长春理工大学](http://www.cust.edu.cn/)一等学业奖学金
 
 ### RESEARCH EXPERIENCE
 * **Fusion of Artificial Intelligence-aided Communications and Computing for Networked Autonomous Driving** (Jan. 2019-present, Natural Science Foundation of China)

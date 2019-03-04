@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo.png">
+      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo.png" height=90%>
     </td>
     <td width="75%">
       Ph.D. student <br> 
@@ -13,6 +13,8 @@
     </td>
   </tr>
 </table>
+
+
 
 ## RESEARCH INTEREST
 Intelligent Transportation Systems, Content Distribution and Resource Allocation in Vehicular Networks, Joint Allocation of Communication and Computing Resources for Networked Autonomous Driving, Vehicle-Road Collaborative Networked Intelligent Driving.

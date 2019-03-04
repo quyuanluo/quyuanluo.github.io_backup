@@ -1,4 +1,3 @@
-# Quyuan Luo
 <table border="0">
   <tr>
     <td width="25%">
@@ -9,18 +8,11 @@
       Advanced Transportation Technology Lab <br>
       <a href="http://ste.xidian.edu.cn/english/index/school_introduction.htm">School of Telecommunication Engineering] </a> <br>
       <a href="https://en.xidian.edu.cn/" >Xidian University</a><br>
-      E-mail: *quluoxidian@163.com* <br>
+      E-mail: <i>quluoxidian@163.com</i> <br>
       Address: Mail Box 88, No.2 South Taibai Road, Xi’an, Shaanxi, 710071, China
     </td>
   </tr>
 </table>
-
-Ph.D. student  
-Advanced Transportation Technology Lab  
-[School of Telecommunication Engineering](http://ste.xidian.edu.cn/english/index/school_introduction.htm)  
-[Xidian University](https://en.xidian.edu.cn/)  
-E-mail: *quluoxidian@163.com*  
-Address: Mail Box 88, No.2 South Taibai Road, Xi’an, Shaanxi, 710071, China
 
 ## RESEARCH INTEREST
 Intelligent Transportation Systems, Content Distribution and Resource Allocation in Vehicular Networks, Joint Allocation of Communication and Computing Resources for Networked Autonomous Driving, Vehicle-Road Collaborative Networked Intelligent Driving.

@@ -11,8 +11,9 @@ Address: Mail Box 88, No.2 South Taibai Road, Xi’an, Shaanxi, 710071, China
 Intelligent Transportation Systems, Content Distribution and Resource Allocation in Vehicular Networks, Joint Allocation of Communication and Computing Resources for Networked Autonomous Driving, Vehicle-Road Collaborative Networked Intelligent Driving.
 
 ## EXPERIENCE
-|Sep. 2016-present|Ph.D in Communications and Information Systems|Xidian University, Xi’an, China|
+
 ------------------|-----------------------------------------------|------------------------------|
+|Sep. 2016-present|Ph.D in Communications and Information Systems|Xidian University, Xi’an, China|
 |Sep. 2015-Jul. 2016|M.Eng. in Communications and Information Systems|Xidian University, Xi’an, China|
 |Sep. 2011-Jul. 2015|B.S. in Telecommunications Engineering|Changchun University of Science and Technology (CUST), changchun, China|
 

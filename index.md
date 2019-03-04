@@ -1,9 +1,9 @@
 <table border="0">
   <tr>
-    <td width="25%">
+    <td width="20%">
       <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo.png" height="170">
     </td>
-    <td width="75%">
+    <td width="80%">
       Ph.D. student <br> 
       Advanced Transportation Technology Lab <br>
       <a href="http://ste.xidian.edu.cn/english/index/school_introduction.htm">School of Telecommunication Engineering] </a> <br>

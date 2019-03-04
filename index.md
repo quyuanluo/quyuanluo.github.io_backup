@@ -1,10 +1,11 @@
 <!DOCTYPE HTML>
 <html>
-  <head>
+	<head>
 		<title>Xingzhou Zhang (张星洲)'s Home Page</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="icon" href="Images/qyluo.png">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="images/logo.png" type="image/vnd.microsoft.icon">
 	</head>
 
 <table border="0" cellpadding="0" cellspacing="0">

@@ -3,6 +3,39 @@
 			Xingzhou Zhang (张星洲)
 		</div>
 </header>
+<section id="">
+		<div class="inner">
+			<h3>Experience</h3>
+			<table style="width:100%;height: 100%;">
+				<tbody>
+					<tr> 
+						<td>Nov. 2017 - Current</td>
+						<td>Visiting student</td>
+						<td>Visiting the <a href="http://thecarlab.org">CAR Lab</a> in Wayne State University, Michigan, USA
+						</td> 	
+					</tr>
+
+					<tr> 
+						<td>Sep. 2014 – Current</td>
+						<td>Ph.D. in Computer Architecture</td>
+						<td>
+							<a href="http://www.ict.ac.cn/">Institute of Computing Technology (ICT)</a>, Chinese Academy of Sciences, China 
+						</td>
+						</td> 	
+					</tr>
+
+					<tr>
+						<td>Sep. 2010 – Jul. 2014 </td>
+						<td>B.S. in Computer Science and Technology</td>
+						<td>
+						  Shandong University, China
+						</td> 	
+					</tr>
+					
+				</tbody>
+			</table>
+		</div>
+</section>
 
 # Quyuan Luo
 <table border="0" cellpadding="0" cellspacing="0">

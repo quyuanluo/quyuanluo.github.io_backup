@@ -1,9 +1,3 @@
-<html>
-      <head>
-            <title>Xingzhou Zhang (张星洲)'s Home Page</title>
-            <link rel="shortcut icon" href="Images/qyluo.png" type="image/x-icon" /> 
-      </head>
-</html>
 <!--<div style="text-align: right"> <a href="/index-ch.html">【中文版】</a> </div>
 -->
 <table border="0" cellpadding="0" cellspacing="0">

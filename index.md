@@ -1,4 +1,4 @@
-<div style="text-align: right"> <a href="https://github.com/Luoquyuan/HomePage/blob/master/ch_index.md">中文版</a> </div>
+<div style="text-align: right"> <a href="/ch_index.md">中文版</a> </div>
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="20%">

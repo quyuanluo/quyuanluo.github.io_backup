@@ -1,7 +1,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="20%">
-      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/qyluo.png" height="180">
+      <img src="https://raw.githubusercontent.com/Luoquyuan/HomePage/master/Images/qyluo.png" height="180">
     </td>
     <td width="80%">
      <font size="6"> Quyuan Luo </font> <br> 

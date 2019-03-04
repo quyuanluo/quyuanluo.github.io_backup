@@ -1,5 +1,6 @@
-<link rel="shortcut icon" href="Images/qyluo.png" type="image/x-icon" /> 
-
+<head>
+  <link rel="shortcut icon" href="Images/qyluo.png" type="image/x-icon" /> 
+</head>
 <!--<div style="text-align: right"> <a href="/index-ch.html">【中文版】</a> </div>
 -->
 <table border="0" cellpadding="0" cellspacing="0">

@@ -11,7 +11,7 @@
       <a href="https://en.xidian.edu.cn/" >Xidian University</a><br>
       E-mail: <i>quluoxidian@163.com</i> <br>
       Address: Mail Box 88, No.2 South Taibai Road, Xi’an, Shaanxi, 710071, China <br>
-      <a href=ch_index.md>中文版 </a>
+      <a href="https://github.com/Luoquyuan/HomePage/blob/master/ch_index.md">中文版 </a>
     </td>
   </tr>
 </table>

@@ -1,6 +1,6 @@
 <header id="header">
 		<div class="inner">
-			<a href="index.md" class="logo">Xingzhou Zhang (张星洲)</a>
+			Xingzhou Zhang (张星洲)
 		</div>
 </header>
 

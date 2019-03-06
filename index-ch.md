@@ -65,7 +65,6 @@
 * Zhifang Miao, Xuelian Cai, Quyuan Luo, Weiwei Dong, “[A FLRBF Scheme for Optimization of Forwarding Broadcast Packets in Vehicular Ad Hoc Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7794952),” in **_Proc. IEEE PIMRC_**, Valencia, 2016, pp. 1-5.
 <html>
 	<body>
-<HR color=#000000 SIZE=2>
 		<div class="copyright">
 				<table border="0" cellpadding="0" cellspacing="0" width="100%">
 					<tr>
@@ -75,8 +74,7 @@
 						</td>
 						<td style="vertical-align:center;text-align:right"  width=25%>
 							<a href="https://info.flagcounter.com/sZQL">
-								<img     src="https://s01.flagcounter.com/count/sZQL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" 
-								     alt="Flag Counter" border="0" width="250px"></a>
+								<img src="https://s01.flagcounter.com/count/sZQL/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" width="250px"></a>
 						</td>
 					</tr>
 				</table>			

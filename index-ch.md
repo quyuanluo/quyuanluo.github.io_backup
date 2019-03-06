@@ -63,7 +63,8 @@
 * Quyuan Luo, Changle Li, Qiang Ye, Tom H. Luan, Lina Zhu and Xiaolei Han, “[CFT: A Cluster-based File Transfer Scheme for Highway VANETs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996452),” in **_Proc. IEEE ICC, Paris_**, 2017, pp.1-6.
 * Pengfei Huang, Changle Li, Quyuan Luo, Yao Zhang and Bing Xia, “GECM: A Novel Green Wave Band Based Energy Consumption Model for Electric Vehicles,” in **_Proc. IEEE VTC-Spring_**, Porto, 2018, pp. 1-5.
 * Zhifang Miao, Xuelian Cai, Quyuan Luo, Weiwei Dong, “[A FLRBF Scheme for Optimization of Forwarding Broadcast Packets in Vehicular Ad Hoc Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7794952),” in **_Proc. IEEE PIMRC_**, Valencia, 2016, pp. 1-5.
-
+<html>
+	<body>
 <HR color=#000000 SIZE=2>
 		<div class="copyright">
 				<table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -80,3 +81,5 @@
 					</tr>
 				</table>			
 		</div>
+	</body>
+	</html>

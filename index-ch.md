@@ -1,4 +1,4 @@
-<div style="text-align: right"> <a href="/index.html">【English Version】</a></div>
+<div style="text-align: right"> <a href="/index-ch.html">中文版</a>|<a href="/index.html">English</a></div>
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="20%">
